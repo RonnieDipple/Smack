@@ -1,5 +1,6 @@
 package com.yolasite.hardtapgames.smack
 
+import android.content.Intent
 import android.os.Bundle
 import android.support.design.widget.Snackbar
 import android.support.design.widget.NavigationView
@@ -36,6 +37,10 @@ class MainActivity : AppCompatActivity(){
 
     fun loginButtonNavClicked (view : View){
 
+        val loginIntent = Intent(this,loginActivity::class.java)
+        startActivity(loginIntent)
+
+
     }
 
     fun addChannelClicked (view: View){
@@ -45,6 +50,8 @@ class MainActivity : AppCompatActivity(){
     fun sendMessageBtnClicked(view: View){
 
     }
+
+
 
 
 }
