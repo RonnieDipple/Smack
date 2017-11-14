@@ -1,9 +1,10 @@
-package com.yolasite.hardtapgames.smack
+package com.yolasite.hardtapgames.smack.Controller
 
 import android.content.Intent
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
 import android.view.View
+import com.yolasite.hardtapgames.smack.R
 
 class loginActivity : AppCompatActivity() {
 
@@ -17,7 +18,7 @@ class loginActivity : AppCompatActivity() {
     }
 
     fun loginCreateUserBtnClicked (view: View){
-        val createUserIntent = Intent(this,CreateUserActivity::class.java)
+        val createUserIntent = Intent(this, CreateUserActivity::class.java)
         startActivity(createUserIntent)
 
 
