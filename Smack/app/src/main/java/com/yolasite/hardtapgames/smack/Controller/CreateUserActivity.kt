@@ -16,8 +16,7 @@ import com.yolasite.hardtapgames.smack.R.id.start
 import java.security.AccessController.getContext
 import com.android.volley.VolleyError
 import com.android.volley.RetryPolicy
-
-
+import com.yolasite.hardtapgames.smack.Services.UserDataService
 
 
 class CreateUserActivity : AppCompatActivity() {
@@ -66,6 +65,7 @@ class CreateUserActivity : AppCompatActivity() {
     }
 
     fun createUserClicked(view: View) {
+        val userName = createUserNameText.text.toString()
         val email = createEmailText.text.toString()
         val password = createPasswordText.text.toString()
 
@@ -73,8 +73,20 @@ class CreateUserActivity : AppCompatActivity() {
             if (registerSuccess){
                 AuthService.loginUser(this, email, password){ loginSuccess ->
                     if (loginSuccess){
-                        println(AuthService.authToken)
-                        println(AuthService.userEmail)
+
+                        AuthService.createUser(this,userName,email,userAvatar,avatarColor){createSuccess ->
+
+                            if (createSuccess){
+                                println(UserDataService.avatarName)
+                                println(UserDataService.avatarColor)
+                                println(UserDataService.name)
+                                finish()
+                            }
+
+
+
+                        }
+
 
                     }
 
