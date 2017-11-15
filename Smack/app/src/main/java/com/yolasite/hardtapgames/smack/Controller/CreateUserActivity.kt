@@ -3,13 +3,25 @@ package com.yolasite.hardtapgames.smack.Controller
 import android.graphics.Color
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
+import android.util.Log
 import android.view.View
 import com.yolasite.hardtapgames.smack.R
 import com.yolasite.hardtapgames.smack.Services.AuthService
 import kotlinx.android.synthetic.main.activity_create_user.*
 import java.util.*
+import android.widget.Toast
+import com.android.volley.*
+import com.android.volley.toolbox.StringRequest
+import com.yolasite.hardtapgames.smack.R.id.start
+import java.security.AccessController.getContext
+import com.android.volley.VolleyError
+import com.android.volley.RetryPolicy
+
+
+
 
 class CreateUserActivity : AppCompatActivity() {
+
 
     var userAvatar = "profileDefault"
     var avatarColor = "[0.5,0.5,0.5,1]"
@@ -54,13 +66,29 @@ class CreateUserActivity : AppCompatActivity() {
     }
 
     fun createUserClicked(view: View) {
+        val email = createEmailText.text.toString()
+        val password = createPasswordText.text.toString()
 
-        AuthService.registerUser(this, "Ronnie.com", "12345678") { complete ->
-            if (complete){}
+        AuthService.registerUser(this, email, password) { registerSuccess ->
+            if (registerSuccess){
+                AuthService.loginUser(this, email, password){ loginSuccess ->
+                    if (loginSuccess){
+                        println(AuthService.authToken)
+                        println(AuthService.userEmail)
+
+                    }
+
+                }
+
+
+
+            }
 
         }
 
+
     }
+
 
 
 
