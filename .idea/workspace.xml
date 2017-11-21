@@ -5,409 +5,32 @@
       <config />
     </shared>
   </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="38b20f9b-8e97-4ca8-9e2e-9fcf67df1026" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gradle/4.1/fileChanges/last-build.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gradle/4.1/fileHashes/fileHashes.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gradle/4.1/fileHashes/fileHashes.lock" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gradle/4.1/fileHashes/resourceHashesCache.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gradle/4.1/taskHistory/fileSnapshots.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gradle/4.1/taskHistory/taskHistory.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gradle/4.1/taskHistory/taskHistory.lock" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/built.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties.lock" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/com_android_support_constraint_constraint_layout_solver_1_0_2_jar.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/com_android_volley_volley_1_0_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/org_jetbrains_kotlin_kotlin_stdlib_1_1_60_jar.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/org_jetbrains_kotlin_kotlin_stdlib_jre7_1_1_60_jar.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Smack.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/app.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build.gradle" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/yolasite/hardtapgames/smack/Controller/CreateUserActivity.kt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/yolasite/hardtapgames/smack/Controller/MainActivity.kt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/yolasite/hardtapgames/smack/Controller/loginActivity.kt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/yolasite/hardtapgames/smack/Services/AuthService.kt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/yolasite/hardtapgames/smack/Services/UserDataService.kt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/yolasite/hardtapgames/smack/Utlities/Constants.kt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_create_user.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_login.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/layout/app_bar_main.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/layout/content_main.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/layout/nav_header_main.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/values/colors.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build.gradle" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Smack/.idea/libraries/com_android_support_constraint_constraint_layout_solver_1_0_2_jar.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Smack/.idea/libraries/org_jetbrains_kotlin_kotlin_stdlib_1_1_51_jar.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Smack/.idea/libraries/org_jetbrains_kotlin_kotlin_stdlib_jre7_1_1_51_jar.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Smack/.idea/vcs.xml" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/.idea/gradle.xml" afterPath="$PROJECT_DIR$/.idea/gradle.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/.idea/libraries/android_arch_core_common_1_0_0_jar.xml" afterPath="$PROJECT_DIR$/.idea/libraries/android_arch_core_common_1_0_0_jar.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/.idea/libraries/android_arch_lifecycle_common_1_0_0_jar.xml" afterPath="$PROJECT_DIR$/.idea/libraries/android_arch_lifecycle_common_1_0_0_jar.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/.idea/libraries/android_arch_lifecycle_runtime_1_0_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/android_arch_lifecycle_runtime_1_0_0.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/.idea/libraries/com_android_support_animated_vector_drawable_26_1_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/com_android_support_animated_vector_drawable_26_1_0.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/.idea/libraries/com_android_support_appcompat_v7_26_1_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/com_android_support_appcompat_v7_26_1_0.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/.idea/libraries/com_android_support_constraint_constraint_layout_1_0_2.xml" afterPath="$PROJECT_DIR$/.idea/libraries/com_android_support_constraint_constraint_layout_1_0_2.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/.idea/libraries/com_android_support_design_26_1_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/com_android_support_design_26_1_0.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/.idea/libraries/com_android_support_recyclerview_v7_26_1_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/com_android_support_recyclerview_v7_26_1_0.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/.idea/libraries/com_android_support_support_annotations_26_1_0_jar.xml" afterPath="$PROJECT_DIR$/.idea/libraries/com_android_support_support_annotations_26_1_0_jar.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/.idea/libraries/com_android_support_support_compat_26_1_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/com_android_support_support_compat_26_1_0.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/.idea/libraries/com_android_support_support_core_ui_26_1_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/com_android_support_support_core_ui_26_1_0.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/.idea/libraries/com_android_support_support_core_utils_26_1_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/com_android_support_support_core_utils_26_1_0.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/.idea/libraries/com_android_support_support_fragment_26_1_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/com_android_support_support_fragment_26_1_0.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/.idea/libraries/com_android_support_support_media_compat_26_1_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/com_android_support_support_media_compat_26_1_0.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/.idea/libraries/com_android_support_support_v4_26_1_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/com_android_support_support_v4_26_1_0.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/.idea/libraries/com_android_support_support_vector_drawable_26_1_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/com_android_support_support_vector_drawable_26_1_0.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/.idea/libraries/com_android_support_test_espresso_espresso_core_3_0_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/com_android_support_test_espresso_espresso_core_3_0_1.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/.idea/libraries/com_android_support_test_espresso_espresso_idling_resource_3_0_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/com_android_support_test_espresso_espresso_idling_resource_3_0_1.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/.idea/libraries/com_android_support_test_rules_1_0_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/com_android_support_test_rules_1_0_1.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/.idea/libraries/com_android_support_test_runner_1_0_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/com_android_support_test_runner_1_0_1.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/.idea/libraries/com_android_support_transition_26_1_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/com_android_support_transition_26_1_0.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/.idea/libraries/com_google_code_findbugs_jsr305_2_0_1_jar.xml" afterPath="$PROJECT_DIR$/.idea/libraries/com_google_code_findbugs_jsr305_2_0_1_jar.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/.idea/libraries/com_squareup_javawriter_2_1_1_jar.xml" afterPath="$PROJECT_DIR$/.idea/libraries/com_squareup_javawriter_2_1_1_jar.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/.idea/libraries/javax_inject_javax_inject_1_jar.xml" afterPath="$PROJECT_DIR$/.idea/libraries/javax_inject_javax_inject_1_jar.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/.idea/libraries/junit_junit_4_12_jar.xml" afterPath="$PROJECT_DIR$/.idea/libraries/junit_junit_4_12_jar.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/.idea/libraries/net_sf_kxml_kxml2_2_3_0_jar.xml" afterPath="$PROJECT_DIR$/.idea/libraries/net_sf_kxml_kxml2_2_3_0_jar.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/.idea/libraries/org_hamcrest_hamcrest_core_1_3_jar.xml" afterPath="$PROJECT_DIR$/.idea/libraries/org_hamcrest_hamcrest_core_1_3_jar.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/.idea/libraries/org_hamcrest_hamcrest_integration_1_3_jar.xml" afterPath="$PROJECT_DIR$/.idea/libraries/org_hamcrest_hamcrest_integration_1_3_jar.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/.idea/libraries/org_hamcrest_hamcrest_library_1_3_jar.xml" afterPath="$PROJECT_DIR$/.idea/libraries/org_hamcrest_hamcrest_library_1_3_jar.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/.idea/libraries/org_jetbrains_annotations_13_0_jar.xml" afterPath="$PROJECT_DIR$/.idea/libraries/org_jetbrains_annotations_13_0_jar.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/.idea/runConfigurations.xml" afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/.gitignore" afterPath="$PROJECT_DIR$/app/.gitignore" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/proguard-rules.pro" afterPath="$PROJECT_DIR$/app/proguard-rules.pro" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/androidTest/java/com/yolasite/hardtapgames/smack/ExampleInstrumentedTest.kt" afterPath="$PROJECT_DIR$/app/src/androidTest/java/com/yolasite/hardtapgames/smack/ExampleInstrumentedTest.kt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-hdpi/addchannelbutton.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/addchannelbutton.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-hdpi/dark0.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/dark0.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-hdpi/dark1.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/dark1.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-hdpi/dark10.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/dark10.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-hdpi/dark11.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/dark11.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-hdpi/dark12.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/dark12.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-hdpi/dark13.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/dark13.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-hdpi/dark14.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/dark14.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-hdpi/dark15.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/dark15.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-hdpi/dark16.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/dark16.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-hdpi/dark17.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/dark17.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-hdpi/dark18.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/dark18.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-hdpi/dark19.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/dark19.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-hdpi/dark2.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/dark2.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-hdpi/dark20.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/dark20.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-hdpi/dark21.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/dark21.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-hdpi/dark22.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/dark22.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-hdpi/dark23.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/dark23.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-hdpi/dark24.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/dark24.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-hdpi/dark25.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/dark25.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-hdpi/dark26.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/dark26.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-hdpi/dark27.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/dark27.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-hdpi/dark3.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/dark3.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-hdpi/dark4.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/dark4.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-hdpi/dark5.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/dark5.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-hdpi/dark6.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/dark6.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-hdpi/dark7.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/dark7.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-hdpi/dark8.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/dark8.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-hdpi/dark9.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/dark9.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-hdpi/light0.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/light0.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-hdpi/light1.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/light1.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-hdpi/light10.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/light10.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-hdpi/light11.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/light11.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-hdpi/light12.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/light12.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-hdpi/light13.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/light13.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-hdpi/light14.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/light14.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-hdpi/light15.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/light15.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-hdpi/light16.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/light16.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-hdpi/light17.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/light17.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-hdpi/light18.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/light18.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-hdpi/light19.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/light19.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-hdpi/light2.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/light2.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-hdpi/light20.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/light20.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-hdpi/light21.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/light21.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-hdpi/light22.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/light22.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-hdpi/light23.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/light23.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-hdpi/light24.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/light24.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-hdpi/light25.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/light25.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-hdpi/light26.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/light26.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-hdpi/light27.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/light27.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-hdpi/light3.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/light3.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-hdpi/light4.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/light4.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-hdpi/light5.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/light5.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-hdpi/light6.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/light6.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-hdpi/light7.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/light7.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-hdpi/light8.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/light8.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-hdpi/light9.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/light9.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-hdpi/profiledefault.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/profiledefault.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-hdpi/smacklogo.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/smacklogo.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-mdpi/addchannelbutton.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/addchannelbutton.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-mdpi/dark0.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/dark0.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-mdpi/dark1.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/dark1.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-mdpi/dark10.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/dark10.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-mdpi/dark11.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/dark11.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-mdpi/dark12.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/dark12.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-mdpi/dark13.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/dark13.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-mdpi/dark14.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/dark14.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-mdpi/dark15.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/dark15.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-mdpi/dark16.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/dark16.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-mdpi/dark17.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/dark17.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-mdpi/dark18.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/dark18.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-mdpi/dark19.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/dark19.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-mdpi/dark2.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/dark2.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-mdpi/dark20.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/dark20.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-mdpi/dark21.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/dark21.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-mdpi/dark22.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/dark22.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-mdpi/dark23.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/dark23.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-mdpi/dark24.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/dark24.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-mdpi/dark25.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/dark25.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-mdpi/dark26.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/dark26.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-mdpi/dark27.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/dark27.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-mdpi/dark3.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/dark3.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-mdpi/dark4.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/dark4.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-mdpi/dark5.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/dark5.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-mdpi/dark6.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/dark6.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-mdpi/dark7.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/dark7.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-mdpi/dark8.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/dark8.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-mdpi/dark9.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/dark9.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-mdpi/light0.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/light0.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-mdpi/light1.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/light1.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-mdpi/light10.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/light10.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-mdpi/light11.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/light11.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-mdpi/light12.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/light12.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-mdpi/light13.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/light13.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-mdpi/light14.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/light14.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-mdpi/light15.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/light15.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-mdpi/light16.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/light16.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-mdpi/light17.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/light17.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-mdpi/light18.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/light18.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-mdpi/light19.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/light19.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-mdpi/light2.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/light2.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-mdpi/light20.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/light20.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-mdpi/light21.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/light21.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-mdpi/light22.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/light22.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-mdpi/light23.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/light23.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-mdpi/light24.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/light24.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-mdpi/light25.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/light25.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-mdpi/light26.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/light26.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-mdpi/light27.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/light27.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-mdpi/light3.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/light3.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-mdpi/light4.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/light4.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-mdpi/light5.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/light5.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-mdpi/light6.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/light6.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-mdpi/light7.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/light7.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-mdpi/light8.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/light8.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-mdpi/light9.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/light9.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-mdpi/profiledefault.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/profiledefault.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-mdpi/smacklogo.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/smacklogo.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-v21/ic_menu_camera.xml" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-v21/ic_menu_camera.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-v21/ic_menu_gallery.xml" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-v21/ic_menu_gallery.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-v21/ic_menu_manage.xml" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-v21/ic_menu_manage.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-v21/ic_menu_send.xml" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-v21/ic_menu_send.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-v21/ic_menu_share.xml" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-v21/ic_menu_share.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-v21/ic_menu_slideshow.xml" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-v21/ic_menu_slideshow.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-xhdpi/addchannelbutton.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/addchannelbutton.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-xhdpi/dark0.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/dark0.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-xhdpi/dark1.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/dark1.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-xhdpi/dark10.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/dark10.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-xhdpi/dark11.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/dark11.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-xhdpi/dark12.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/dark12.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-xhdpi/dark13.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/dark13.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-xhdpi/dark14.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/dark14.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-xhdpi/dark15.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/dark15.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-xhdpi/dark16.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/dark16.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-xhdpi/dark17.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/dark17.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-xhdpi/dark18.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/dark18.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-xhdpi/dark19.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/dark19.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-xhdpi/dark2.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/dark2.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-xhdpi/dark20.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/dark20.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-xhdpi/dark21.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/dark21.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-xhdpi/dark22.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/dark22.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-xhdpi/dark23.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/dark23.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-xhdpi/dark24.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/dark24.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-xhdpi/dark25.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/dark25.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-xhdpi/dark26.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/dark26.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-xhdpi/dark27.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/dark27.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-xhdpi/dark3.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/dark3.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-xhdpi/dark4.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/dark4.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-xhdpi/dark5.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/dark5.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-xhdpi/dark6.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/dark6.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-xhdpi/dark7.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/dark7.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-xhdpi/dark8.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/dark8.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-xhdpi/dark9.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/dark9.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-xhdpi/light0.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/light0.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-xhdpi/light1.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/light1.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-xhdpi/light10.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/light10.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-xhdpi/light11.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/light11.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-xhdpi/light12.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/light12.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-xhdpi/light13.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/light13.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-xhdpi/light14.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/light14.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-xhdpi/light15.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/light15.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-xhdpi/light16.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/light16.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-xhdpi/light17.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/light17.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-xhdpi/light18.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/light18.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-xhdpi/light19.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/light19.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-xhdpi/light2.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/light2.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-xhdpi/light20.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/light20.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-xhdpi/light21.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/light21.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-xhdpi/light22.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/light22.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-xhdpi/light23.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/light23.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-xhdpi/light24.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/light24.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-xhdpi/light25.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/light25.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-xhdpi/light26.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/light26.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-xhdpi/light27.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/light27.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-xhdpi/light3.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/light3.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-xhdpi/light4.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/light4.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-xhdpi/light5.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/light5.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-xhdpi/light6.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/light6.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-xhdpi/light7.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/light7.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-xhdpi/light8.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/light8.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-xhdpi/light9.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/light9.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-xhdpi/profiledefault.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/profiledefault.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-xhdpi/smacklogo.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/smacklogo.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-xxhdpi/addchannelbutton.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/addchannelbutton.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-xxhdpi/dark0.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/dark0.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-xxhdpi/dark1.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/dark1.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-xxhdpi/dark10.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/dark10.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-xxhdpi/dark11.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/dark11.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-xxhdpi/dark12.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/dark12.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-xxhdpi/dark13.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/dark13.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-xxhdpi/dark14.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/dark14.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-xxhdpi/dark15.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/dark15.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-xxhdpi/dark16.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/dark16.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-xxhdpi/dark17.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/dark17.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-xxhdpi/dark18.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/dark18.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-xxhdpi/dark19.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/dark19.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-xxhdpi/dark2.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/dark2.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-xxhdpi/dark20.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/dark20.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-xxhdpi/dark21.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/dark21.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-xxhdpi/dark22.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/dark22.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-xxhdpi/dark23.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/dark23.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-xxhdpi/dark24.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/dark24.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-xxhdpi/dark25.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/dark25.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-xxhdpi/dark26.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/dark26.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-xxhdpi/dark27.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/dark27.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-xxhdpi/dark3.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/dark3.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-xxhdpi/dark4.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/dark4.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-xxhdpi/dark5.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/dark5.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-xxhdpi/dark6.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/dark6.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-xxhdpi/dark7.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/dark7.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-xxhdpi/dark8.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/dark8.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-xxhdpi/dark9.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/dark9.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-xxhdpi/light0.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/light0.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-xxhdpi/light1.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/light1.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-xxhdpi/light10.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/light10.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-xxhdpi/light11.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/light11.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-xxhdpi/light12.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/light12.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-xxhdpi/light13.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/light13.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-xxhdpi/light14.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/light14.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-xxhdpi/light15.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/light15.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-xxhdpi/light16.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/light16.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-xxhdpi/light17.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/light17.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-xxhdpi/light18.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/light18.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-xxhdpi/light19.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/light19.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-xxhdpi/light2.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/light2.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-xxhdpi/light20.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/light20.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-xxhdpi/light21.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/light21.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-xxhdpi/light22.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/light22.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-xxhdpi/light23.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/light23.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-xxhdpi/light24.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/light24.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-xxhdpi/light25.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/light25.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-xxhdpi/light26.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/light26.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-xxhdpi/light27.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/light27.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-xxhdpi/light3.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/light3.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-xxhdpi/light4.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/light4.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-xxhdpi/light5.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/light5.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-xxhdpi/light6.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/light6.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-xxhdpi/light7.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/light7.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-xxhdpi/light8.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/light8.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-xxhdpi/light9.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/light9.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-xxhdpi/profiledefault.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/profiledefault.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-xxhdpi/smacklogo.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/smacklogo.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-xxxhdpi/addchannelbutton.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/addchannelbutton.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-xxxhdpi/dark0.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/dark0.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-xxxhdpi/dark1.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/dark1.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-xxxhdpi/dark10.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/dark10.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-xxxhdpi/dark11.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/dark11.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-xxxhdpi/dark12.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/dark12.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-xxxhdpi/dark13.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/dark13.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-xxxhdpi/dark14.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/dark14.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-xxxhdpi/dark15.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/dark15.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-xxxhdpi/dark16.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/dark16.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-xxxhdpi/dark17.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/dark17.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-xxxhdpi/dark18.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/dark18.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-xxxhdpi/dark19.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/dark19.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-xxxhdpi/dark2.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/dark2.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-xxxhdpi/dark20.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/dark20.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-xxxhdpi/dark21.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/dark21.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-xxxhdpi/dark22.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/dark22.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-xxxhdpi/dark23.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/dark23.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-xxxhdpi/dark24.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/dark24.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-xxxhdpi/dark25.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/dark25.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-xxxhdpi/dark26.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/dark26.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-xxxhdpi/dark27.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/dark27.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-xxxhdpi/dark3.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/dark3.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-xxxhdpi/dark4.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/dark4.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-xxxhdpi/dark5.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/dark5.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-xxxhdpi/dark6.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/dark6.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-xxxhdpi/dark7.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/dark7.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-xxxhdpi/dark8.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/dark8.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-xxxhdpi/dark9.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/dark9.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-xxxhdpi/light0.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/light0.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-xxxhdpi/light1.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/light1.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-xxxhdpi/light10.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/light10.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-xxxhdpi/light11.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/light11.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-xxxhdpi/light12.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/light12.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-xxxhdpi/light13.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/light13.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-xxxhdpi/light14.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/light14.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-xxxhdpi/light15.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/light15.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-xxxhdpi/light16.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/light16.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-xxxhdpi/light17.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/light17.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-xxxhdpi/light18.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/light18.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-xxxhdpi/light19.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/light19.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-xxxhdpi/light2.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/light2.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-xxxhdpi/light20.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/light20.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-xxxhdpi/light21.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/light21.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-xxxhdpi/light22.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/light22.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-xxxhdpi/light23.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/light23.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-xxxhdpi/light24.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/light24.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-xxxhdpi/light25.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/light25.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-xxxhdpi/light26.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/light26.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-xxxhdpi/light27.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/light27.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-xxxhdpi/light3.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/light3.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-xxxhdpi/light4.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/light4.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-xxxhdpi/light5.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/light5.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-xxxhdpi/light6.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/light6.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-xxxhdpi/light7.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/light7.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-xxxhdpi/light8.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/light8.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-xxxhdpi/light9.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/light9.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-xxxhdpi/profiledefault.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/profiledefault.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable-xxxhdpi/smacklogo.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/smacklogo.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable/ic_launcher_background.xml" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_launcher_background.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/drawable/side_nav_bar.xml" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/side_nav_bar.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/layout/activity_main.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/menu/activity_main_drawer.xml" afterPath="$PROJECT_DIR$/app/src/main/res/menu/activity_main_drawer.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/menu/main.xml" afterPath="$PROJECT_DIR$/app/src/main/res/menu/main.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_launcher.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_launcher.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_launcher.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/values-v21/styles.xml" afterPath="$PROJECT_DIR$/app/src/main/res/values-v21/styles.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/values/dimens.xml" afterPath="$PROJECT_DIR$/app/src/main/res/values/dimens.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/values/drawables.xml" afterPath="$PROJECT_DIR$/app/src/main/res/values/drawables.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/values/strings.xml" afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/main/res/values/styles.xml" afterPath="$PROJECT_DIR$/app/src/main/res/values/styles.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/app/src/test/java/com/yolasite/hardtapgames/smack/ExampleUnitTest.kt" afterPath="$PROJECT_DIR$/app/src/test/java/com/yolasite/hardtapgames/smack/ExampleUnitTest.kt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/build/kotlin-build/version.txt" afterPath="$PROJECT_DIR$/build/kotlin-build/version.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/gradle.properties" afterPath="$PROJECT_DIR$/gradle.properties" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/gradle/wrapper/gradle-wrapper.jar" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/gradle/wrapper/gradle-wrapper.properties" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/gradlew" afterPath="$PROJECT_DIR$/gradlew" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/gradlew.bat" afterPath="$PROJECT_DIR$/gradlew.bat" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/local.properties" afterPath="$PROJECT_DIR$/local.properties" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Smack/settings.gradle" afterPath="$PROJECT_DIR$/settings.gradle" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Smack/build.gradle" afterPath="$PROJECT_DIR$/Smack/build.gradle" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-11-21-14-12-54-862.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-11-21-14-12-54-862.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-11-21-14-18-18-078.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-11-21-14-18-18-078.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-11-21-14-18-20-649.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-11-21-14-18-20-649.rawproto" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.1/fileHashes/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/4.1/fileHashes/fileHashes.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.1/fileHashes/fileHashes.lock" afterPath="$PROJECT_DIR$/.gradle/4.1/fileHashes/fileHashes.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.1/fileHashes/resourceHashesCache.bin" afterPath="$PROJECT_DIR$/.gradle/4.1/fileHashes/resourceHashesCache.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.1/javaCompile/classAnalysis.bin" afterPath="$PROJECT_DIR$/.gradle/4.1/javaCompile/classAnalysis.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.1/javaCompile/javaCompile.lock" afterPath="$PROJECT_DIR$/.gradle/4.1/javaCompile/javaCompile.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.1/javaCompile/taskHistory.bin" afterPath="$PROJECT_DIR$/.gradle/4.1/javaCompile/taskHistory.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.1/javaCompile/taskJars.bin" afterPath="$PROJECT_DIR$/.gradle/4.1/javaCompile/taskJars.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.1/taskHistory/fileSnapshots.bin" afterPath="$PROJECT_DIR$/.gradle/4.1/taskHistory/fileSnapshots.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.1/taskHistory/taskHistory.bin" afterPath="$PROJECT_DIR$/.gradle/4.1/taskHistory/taskHistory.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.1/taskHistory/taskHistory.lock" afterPath="$PROJECT_DIR$/.gradle/4.1/taskHistory/taskHistory.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/app.iml" afterPath="$PROJECT_DIR$/app/app.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/yolasite/hardtapgames/smack/Controller/MainActivity.kt" afterPath="$PROJECT_DIR$/app/src/main/java/com/yolasite/hardtapgames/smack/Controller/MainActivity.kt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/yolasite/hardtapgames/smack/Controller/loginActivity.kt" afterPath="$PROJECT_DIR$/app/src/main/java/com/yolasite/hardtapgames/smack/Controller/loginActivity.kt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/yolasite/hardtapgames/smack/Services/UserDataService.kt" afterPath="$PROJECT_DIR$/app/src/main/java/com/yolasite/hardtapgames/smack/Services/UserDataService.kt" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -465,11 +88,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="CreateUserActivity.kt" pinned="false" current-in-tab="true">
+      <file leaf-file-name="CreateUserActivity.kt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/yolasite/hardtapgames/smack/Controller/CreateUserActivity.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="239">
-              <caret line="88" column="36" lean-forward="false" selection-start-line="88" selection-start-column="36" selection-end-line="88" selection-end-column="36" />
+            <state relative-caret-position="1120">
+              <caret line="89" column="44" lean-forward="false" selection-start-line="89" selection-start-column="44" selection-end-line="89" selection-end-column="44" />
               <folding>
                 <element signature="e#52#888#0" expanded="true" />
               </folding>
@@ -477,22 +100,39 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/build.gradle">
+      <file leaf-file-name="AndroidManifest.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
-              <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
+            </state>
+          </provider>
+          <provider editor-type-id="android-manifest">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UserDataService.kt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/yolasite/hardtapgames/smack/Services/UserDataService.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="384">
+              <caret line="24" column="38" lean-forward="false" selection-start-line="24" selection-start-column="38" selection-end-line="24" selection-end-column="38" />
+              <folding>
+                <element signature="e#50#98#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/build.gradle">
+      <file leaf-file-name="AuthService.kt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/yolasite/hardtapgames/smack/Services/AuthService.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="194">
-              <caret line="34" column="29" lean-forward="false" selection-start-line="34" selection-start-column="29" selection-end-line="34" selection-end-column="29" />
-              <folding />
+            <state relative-caret-position="128">
+              <caret line="22" column="7" lean-forward="false" selection-start-line="22" selection-start-column="7" selection-end-line="22" selection-end-column="7" />
+              <folding>
+                <element signature="e#50#673#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -507,16 +147,38 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="activity_create_user.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_create_user.xml">
+      <file leaf-file-name="nav_header_main.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/nav_header_main.xml">
+          <provider selected="true" editor-type-id="android-designer2">
+            <state />
+          </provider>
           <provider editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
-          <provider selected="true" editor-type-id="android-designer2">
-            <state />
+        </entry>
+      </file>
+      <file leaf-file-name="MainActivity.kt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/yolasite/hardtapgames/smack/Controller/MainActivity.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="401">
+              <caret line="69" column="46" lean-forward="false" selection-start-line="69" selection-start-column="46" selection-end-line="69" selection-end-column="46" />
+              <folding>
+                <element signature="e#52#873#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="loginActivity.kt" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/yolasite/hardtapgames/smack/Controller/loginActivity.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="288">
+              <caret line="22" column="16" lean-forward="false" selection-start-line="22" selection-start-column="16" selection-end-line="22" selection-end-column="16" />
+              <folding />
+            </state>
           </provider>
         </entry>
       </file>
@@ -2356,6 +2018,9 @@
         <option value="$PROJECT_DIR$/build.gradle" />
         <option value="$PROJECT_DIR$/app/build.gradle" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/yolasite/hardtapgames/smack/Controller/CreateUserActivity.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/yolasite/hardtapgames/smack/Services/UserDataService.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/yolasite/hardtapgames/smack/Controller/MainActivity.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/yolasite/hardtapgames/smack/Controller/loginActivity.kt" />
       </list>
     </option>
   </component>
@@ -2380,7 +2045,10 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
+      <pane id="ProjectPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="AndroidView">
         <subPane>
           <PATH>
@@ -2403,11 +2071,98 @@
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidModuleNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Smack" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidSourceTypeNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Smack" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidSourceTypeNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="smack" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Smack" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidSourceTypeNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="smack" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Services" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Smack" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidSourceTypeNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="smack" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Controller" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Smack" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="manifests" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidManifestsGroupNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="ProjectPane" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -2500,7 +2255,7 @@
       <option name="DEEP_LINK" value="" />
       <option name="ACTIVITY_CLASS" value="" />
       <method>
-        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1511295681050" />
+        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1511307579844" />
       </method>
     </configuration>
     <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Instrumented Tests">
@@ -2546,7 +2301,9 @@
       <Profilers>
         <option name="ADVANCED_PROFILING_ENABLED" value="false" />
       </Profilers>
-      <method />
+      <method>
+        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1511307579844" />
+      </method>
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
@@ -2726,7 +2483,9 @@
       </Profilers>
       <option name="DEEP_LINK" value="" />
       <option name="ACTIVITY_CLASS" value="" />
-      <method />
+      <method>
+        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1511307579845" />
+      </method>
     </configuration>
     <list size="1">
       <item index="0" class="java.lang.String" itemvalue="Android App.app" />
@@ -2765,6 +2524,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="680" y="0" width="680" height="723" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Android Profiler" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -2776,13 +2536,13 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.328125" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Logcat" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.328125" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Logcat" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298611" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25474682" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25474682" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32952815" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Device File Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
@@ -2808,6 +2568,156 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/yolasite/hardtapgames/smack/Controller/CreateUserActivity.kt">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1120">
+          <caret line="89" column="44" lean-forward="false" selection-start-line="89" selection-start-column="44" selection-end-line="89" selection-end-column="44" />
+          <folding>
+            <element signature="e#52#888#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/yolasite/hardtapgames/smack/Services/AuthService.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="22" column="7" lean-forward="false" selection-start-line="22" selection-start-column="7" selection-end-line="22" selection-end-column="7" />
+          <folding>
+            <element signature="e#50#673#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/yolasite/hardtapgames/smack/Utlities/Constants.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="12" column="18" lean-forward="false" selection-start-line="12" selection-start-column="10" selection-end-line="12" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/nav_header_main.xml">
+      <provider selected="true" editor-type-id="android-designer2">
+        <state />
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/yolasite/hardtapgames/smack/Controller/MainActivity.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="33" column="55" lean-forward="false" selection-start-line="33" selection-start-column="55" selection-end-line="33" selection-end-column="55" />
+          <folding>
+            <element signature="e#52#873#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/yolasite/hardtapgames/smack/Controller/loginActivity.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="8" column="6" lean-forward="false" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/yolasite/hardtapgames/smack/Services/UserDataService.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding>
+            <element signature="e#50#98#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/yolasite/hardtapgames/smack/Controller/CreateUserActivity.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1120">
+          <caret line="89" column="44" lean-forward="false" selection-start-line="89" selection-start-column="44" selection-end-line="89" selection-end-column="44" />
+          <folding>
+            <element signature="e#52#888#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/yolasite/hardtapgames/smack/Services/UserDataService.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="5" column="7" lean-forward="false" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
+          <folding>
+            <element signature="e#50#98#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/yolasite/hardtapgames/smack/Services/AuthService.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="22" column="7" lean-forward="false" selection-start-line="22" selection-start-column="7" selection-end-line="22" selection-end-column="7" />
+          <folding>
+            <element signature="e#50#673#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/nav_header_main.xml">
+      <provider selected="true" editor-type-id="android-designer2">
+        <state />
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/yolasite/hardtapgames/smack/Controller/MainActivity.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="33" column="55" lean-forward="false" selection-start-line="33" selection-start-column="55" selection-end-line="33" selection-end-column="55" />
+          <folding>
+            <element signature="e#52#873#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/yolasite/hardtapgames/smack/Controller/loginActivity.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="8" column="6" lean-forward="false" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/yolasite/hardtapgames/smack/Utlities/Constants.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="12" column="18" lean-forward="false" selection-start-line="12" selection-start-column="10" selection-end-line="12" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/yolasite/hardtapgames/smack/Controller/CreateUserActivity.kt">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2048">
           <caret line="128" column="16" lean-forward="false" selection-start-line="128" selection-start-column="16" selection-end-line="128" selection-end-column="16" />
           <folding>
@@ -2817,14 +2727,14 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_create_user.xml">
+      <provider selected="true" editor-type-id="android-designer2">
+        <state />
+      </provider>
       <provider editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
-      </provider>
-      <provider selected="true" editor-type-id="android-designer2">
-        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/yolasite/hardtapgames/smack/Controller/CreateUserActivity.kt">
@@ -2838,14 +2748,14 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_create_user.xml">
+      <provider selected="true" editor-type-id="android-designer2">
+        <state />
+      </provider>
       <provider editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
-      </provider>
-      <provider selected="true" editor-type-id="android-designer2">
-        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/yolasite/hardtapgames/smack/Controller/CreateUserActivity.kt">
@@ -2859,14 +2769,14 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_create_user.xml">
+      <provider selected="true" editor-type-id="android-designer2">
+        <state />
+      </provider>
       <provider editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
-      </provider>
-      <provider selected="true" editor-type-id="android-designer2">
-        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/yolasite/hardtapgames/smack/Controller/CreateUserActivity.kt">
@@ -2880,14 +2790,14 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_create_user.xml">
+      <provider selected="true" editor-type-id="android-designer2">
+        <state />
+      </provider>
       <provider editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
-      </provider>
-      <provider selected="true" editor-type-id="android-designer2">
-        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/yolasite/hardtapgames/smack/Controller/CreateUserActivity.kt">
@@ -2901,14 +2811,14 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_create_user.xml">
+      <provider selected="true" editor-type-id="android-designer2">
+        <state />
+      </provider>
       <provider editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
-      </provider>
-      <provider selected="true" editor-type-id="android-designer2">
-        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/yolasite/hardtapgames/smack/Controller/CreateUserActivity.kt">
@@ -2918,25 +2828,6 @@
           <folding>
             <element signature="e#52#888#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_create_user.xml">
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="android-designer2">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/yolasite/hardtapgames/smack/Utlities/Constants.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="12" column="18" lean-forward="false" selection-start-line="12" selection-start-column="10" selection-end-line="12" selection-end-column="36" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2956,13 +2847,92 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_create_user.xml">
+      <provider selected="true" editor-type-id="android-designer2">
+        <state />
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/nav_header_main.xml">
+      <provider selected="true" editor-type-id="android-designer2">
+        <state />
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/yolasite/hardtapgames/smack/Controller/CreateUserActivity.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="239">
-          <caret line="88" column="36" lean-forward="false" selection-start-line="88" selection-start-column="36" selection-end-line="88" selection-end-column="36" />
+        <state relative-caret-position="1120">
+          <caret line="89" column="44" lean-forward="false" selection-start-line="89" selection-start-column="44" selection-end-line="89" selection-end-column="44" />
           <folding>
             <element signature="e#52#888#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-manifest">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/yolasite/hardtapgames/smack/Services/AuthService.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="22" column="7" lean-forward="false" selection-start-line="22" selection-start-column="7" selection-end-line="22" selection-end-column="7" />
+          <folding>
+            <element signature="e#50#673#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/yolasite/hardtapgames/smack/Utlities/Constants.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="12" column="18" lean-forward="false" selection-start-line="12" selection-start-column="10" selection-end-line="12" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/yolasite/hardtapgames/smack/Services/UserDataService.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="24" column="38" lean-forward="false" selection-start-line="24" selection-start-column="38" selection-end-line="24" selection-end-column="38" />
+          <folding>
+            <element signature="e#50#98#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/yolasite/hardtapgames/smack/Controller/MainActivity.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="401">
+          <caret line="69" column="46" lean-forward="false" selection-start-line="69" selection-start-column="46" selection-end-line="69" selection-end-column="46" />
+          <folding>
+            <element signature="e#52#873#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/yolasite/hardtapgames/smack/Controller/loginActivity.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="22" column="16" lean-forward="false" selection-start-line="22" selection-start-column="16" selection-end-line="22" selection-end-column="16" />
+          <folding />
         </state>
       </provider>
     </entry>
