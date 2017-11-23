@@ -63,7 +63,7 @@ class MainActivity : AppCompatActivity(){
 
         if (AuthService.isLoggedIn){
             UserDataService.logout()
-            userNameNavHeader.text = "login"
+            userNameNavHeader.text = ""
             userEmailNavHeader.text = ""
             userImageNavHeader.setImageResource(R.drawable.profiledefault)
             userImageNavHeader.setBackgroundColor(Color.TRANSPARENT)
@@ -71,7 +71,7 @@ class MainActivity : AppCompatActivity(){
 
         }else {
 
-            val loginIntent = Intent(this, loginActivity::class.java)
+            val loginIntent = Intent(this, LoginActivity::class.java)
             startActivity(loginIntent)
         }
 
