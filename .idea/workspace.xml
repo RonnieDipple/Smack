@@ -10,23 +10,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="38b20f9b-8e97-4ca8-9e2e-9fcf67df1026" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/yolasite/hardtapgames/smack/Controller/App.kt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/yolasite/hardtapgames/smack/Utlities/SharedPrefs.kt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.1/fileHashes/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/4.1/fileHashes/fileHashes.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.1/fileHashes/fileHashes.lock" afterPath="$PROJECT_DIR$/.gradle/4.1/fileHashes/fileHashes.lock" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.1/fileHashes/resourceHashesCache.bin" afterPath="$PROJECT_DIR$/.gradle/4.1/fileHashes/resourceHashesCache.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.1/javaCompile/classAnalysis.bin" afterPath="$PROJECT_DIR$/.gradle/4.1/javaCompile/classAnalysis.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.1/javaCompile/javaCompile.lock" afterPath="$PROJECT_DIR$/.gradle/4.1/javaCompile/javaCompile.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.1/javaCompile/taskHistory.bin" afterPath="$PROJECT_DIR$/.gradle/4.1/javaCompile/taskHistory.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.1/taskHistory/fileSnapshots.bin" afterPath="$PROJECT_DIR$/.gradle/4.1/taskHistory/fileSnapshots.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.1/taskHistory/taskHistory.bin" afterPath="$PROJECT_DIR$/.gradle/4.1/taskHistory/taskHistory.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.1/taskHistory/taskHistory.lock" afterPath="$PROJECT_DIR$/.gradle/4.1/taskHistory/taskHistory.lock" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/yolasite/hardtapgames/smack/Controller/CreateUserActivity.kt" afterPath="$PROJECT_DIR$/app/src/main/java/com/yolasite/hardtapgames/smack/Controller/CreateUserActivity.kt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/yolasite/hardtapgames/smack/Controller/LoginActivity.kt" afterPath="$PROJECT_DIR$/app/src/main/java/com/yolasite/hardtapgames/smack/Controller/LoginActivity.kt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/yolasite/hardtapgames/smack/Controller/MainActivity.kt" afterPath="$PROJECT_DIR$/app/src/main/java/com/yolasite/hardtapgames/smack/Controller/MainActivity.kt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/yolasite/hardtapgames/smack/Services/AuthService.kt" afterPath="$PROJECT_DIR$/app/src/main/java/com/yolasite/hardtapgames/smack/Services/AuthService.kt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/yolasite/hardtapgames/smack/Services/MessageService.kt" afterPath="$PROJECT_DIR$/app/src/main/java/com/yolasite/hardtapgames/smack/Services/MessageService.kt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/yolasite/hardtapgames/smack/Services/UserDataService.kt" afterPath="$PROJECT_DIR$/app/src/main/java/com/yolasite/hardtapgames/smack/Services/UserDataService.kt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/content_main.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/content_main.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -87,8 +84,18 @@
       <file leaf-file-name="LoginActivity.kt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/yolasite/hardtapgames/smack/Controller/LoginActivity.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="278">
-              <caret line="81" column="5" lean-forward="false" selection-start-line="81" selection-start-column="5" selection-end-line="81" selection-end-column="5" />
+            <state relative-caret-position="138">
+              <caret line="30" column="34" lean-forward="false" selection-start-line="30" selection-start-column="34" selection-end-line="30" selection-end-column="34" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CreateUserActivity.kt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/yolasite/hardtapgames/smack/Controller/CreateUserActivity.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="273">
+              <caret line="82" column="51" lean-forward="false" selection-start-line="82" selection-start-column="51" selection-end-line="82" selection-end-column="51" />
               <folding />
             </state>
           </provider>
@@ -97,8 +104,8 @@
       <file leaf-file-name="AuthService.kt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/yolasite/hardtapgames/smack/Services/AuthService.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="28">
-              <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+            <state relative-caret-position="1497">
+              <caret line="117" column="19" lean-forward="false" selection-start-line="117" selection-start-column="19" selection-end-line="117" selection-end-column="19" />
               <folding>
                 <element signature="e#50#531#0" expanded="true" />
               </folding>
@@ -109,14 +116,27 @@
       <file leaf-file-name="MainActivity.kt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/yolasite/hardtapgames/smack/Controller/MainActivity.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="344">
-              <caret line="55" column="47" lean-forward="false" selection-start-line="55" selection-start-column="47" selection-end-line="55" selection-end-column="47" />
+            <state relative-caret-position="322">
+              <caret line="59" column="31" lean-forward="false" selection-start-line="59" selection-start-column="31" selection-end-line="59" selection-end-column="31" />
               <folding>
-                <element signature="e#1952#1983#1" expanded="true" />
-                <element signature="e#1985#2017#1" expanded="true" />
-                <marker date="1511905934680" expanded="true" signature="6056:6057" ph="{...}" />
+                <element signature="e#2046#2077#1" expanded="true" />
+                <element signature="e#2079#2111#1" expanded="true" />
+                <marker date="1511907862037" expanded="true" signature="6684:6685" ph="{...}" />
               </folding>
             </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="content_main.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/content_main.xml">
+          <provider editor-type-id="text-editor">
+            <state relative-caret-position="464">
+              <caret line="44" column="42" lean-forward="false" selection-start-line="44" selection-start-column="42" selection-end-line="44" selection-end-column="42" />
+              <folding />
+            </state>
+          </provider>
+          <provider selected="true" editor-type-id="android-designer2">
+            <state />
           </provider>
         </entry>
       </file>
@@ -157,21 +177,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Channel.kt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/yolasite/hardtapgames/smack/Model/Channel.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="98">
-              <caret line="7" column="22" lean-forward="false" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MessageService.kt" pinned="false" current-in-tab="true">
+      <file leaf-file-name="MessageService.kt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/yolasite/hardtapgames/smack/Services/MessageService.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="419">
-              <caret line="57" column="30" lean-forward="false" selection-start-line="57" selection-start-column="30" selection-end-line="57" selection-end-column="30" />
+            <state relative-caret-position="153">
+              <caret line="17" column="20" lean-forward="false" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="20" />
               <folding>
                 <element signature="e#50#398#0" expanded="true" />
               </folding>
@@ -184,16 +194,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="322">
               <caret line="25" column="17" lean-forward="false" selection-start-line="25" selection-start-column="17" selection-end-line="25" selection-end-column="17" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Constants.kt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/yolasite/hardtapgames/smack/Utlities/Constants.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="12" column="49" lean-forward="false" selection-start-line="12" selection-start-column="49" selection-end-line="12" selection-end-column="49" />
               <folding />
             </state>
           </provider>
@@ -2051,14 +2051,11 @@
         <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_create_user.xml" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/app_bar_main.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/res/layout/content_main.xml" />
         <option value="$USER_HOME$/Android/Sdk/platforms/android-26/android.jar!/android/view/View.class" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/yolasite/hardtapgames/smack/Controller/CreateUserActivity.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/yolasite/hardtapgames/smack/Controller/loginActivity.kt" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/yolasite/hardtapgames/smack/Controller/CreateUserActivity.kt" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/nav_header_main.xml" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_login.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/yolasite/hardtapgames/smack/Controller/LoginActivity.kt" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/add_channel_dialog.xml" />
         <option value="$PROJECT_DIR$/build.gradle" />
         <option value="$PROJECT_DIR$/app/build.gradle" />
@@ -2067,10 +2064,13 @@
         <option value="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/yolasite/hardtapgames/smack/Controller/App.kt" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/yolasite/hardtapgames/smack/Services/UserDataService.kt" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/yolasite/hardtapgames/smack/Controller/MainActivity.kt" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/yolasite/hardtapgames/smack/Utlities/SharedPrefs.kt" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/yolasite/hardtapgames/smack/Services/AuthService.kt" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/yolasite/hardtapgames/smack/Services/MessageService.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/yolasite/hardtapgames/smack/Controller/LoginActivity.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/yolasite/hardtapgames/smack/Controller/CreateUserActivity.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/yolasite/hardtapgames/smack/Controller/MainActivity.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/content_main.xml" />
       </list>
     </option>
   </component>
@@ -2107,6 +2107,28 @@
             <PATH_ELEMENT>
               <option name="myItemId" value="app" />
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidResFolderNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Smack" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidResFolderNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="layout" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidResFolderTypeNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
@@ -2319,7 +2341,7 @@
       <option name="ACTIVITY_CLASS" value="" />
       <method>
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
-        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1511906418236" />
+        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1511908090123" />
       </method>
     </configuration>
     <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Instrumented Tests">
@@ -2367,7 +2389,7 @@
       </Profilers>
       <method>
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
-        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1511906418237" />
+        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1511908090123" />
       </method>
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -2550,7 +2572,7 @@
       <option name="ACTIVITY_CLASS" value="" />
       <method>
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
-        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1511906418238" />
+        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1511908090124" />
       </method>
     </configuration>
     <list size="1">
@@ -2600,6 +2622,7 @@
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32582322" sideWeight="0.5030441" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32911393" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32698962" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -2621,7 +2644,6 @@
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32911393" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.328125" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -2678,9 +2700,9 @@
         <state relative-caret-position="272">
           <caret line="33" column="55" lean-forward="false" selection-start-line="33" selection-start-column="55" selection-end-line="33" selection-end-column="55" />
           <folding>
-            <element signature="e#1952#1983#1" expanded="true" />
-            <element signature="e#1985#2017#1" expanded="true" />
-            <marker date="1511905934680" expanded="true" signature="6056:6057" ph="{...}" />
+            <element signature="e#2046#2077#1" expanded="true" />
+            <element signature="e#2079#2111#1" expanded="true" />
+            <marker date="1511907862037" expanded="true" signature="6684:6685" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -2745,9 +2767,9 @@
         <state relative-caret-position="272">
           <caret line="33" column="55" lean-forward="false" selection-start-line="33" selection-start-column="55" selection-end-line="33" selection-end-column="55" />
           <folding>
-            <element signature="e#1952#1983#1" expanded="true" />
-            <element signature="e#1985#2017#1" expanded="true" />
-            <marker date="1511905934680" expanded="true" signature="6056:6057" ph="{...}" />
+            <element signature="e#2046#2077#1" expanded="true" />
+            <element signature="e#2079#2111#1" expanded="true" />
+            <marker date="1511907862037" expanded="true" signature="6684:6685" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -2909,17 +2931,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/content_main.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="464">
-          <caret line="42" column="42" lean-forward="false" selection-start-line="42" selection-start-column="42" selection-end-line="42" selection-end-column="42" />
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="android-designer2">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_login.xml">
       <provider editor-type-id="text-editor">
         <state relative-caret-position="84">
@@ -2979,16 +2990,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/yolasite/hardtapgames/smack/Controller/CreateUserActivity.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1638">
-          <caret line="136" column="28" lean-forward="false" selection-start-line="120" selection-start-column="4" selection-end-line="139" selection-end-column="5" />
-          <folding>
-            <element signature="e#52#888#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/yolasite/hardtapgames/smack/Model/Channel.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="98">
@@ -3034,26 +3035,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/yolasite/hardtapgames/smack/Controller/LoginActivity.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="278">
-          <caret line="81" column="5" lean-forward="false" selection-start-line="81" selection-start-column="5" selection-end-line="81" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/yolasite/hardtapgames/smack/Controller/MainActivity.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="344">
-          <caret line="55" column="47" lean-forward="false" selection-start-line="55" selection-start-column="47" selection-end-line="55" selection-end-column="47" />
-          <folding>
-            <element signature="e#1952#1983#1" expanded="true" />
-            <element signature="e#1985#2017#1" expanded="true" />
-            <marker date="1511905934680" expanded="true" signature="6056:6057" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/yolasite/hardtapgames/smack/Utlities/SharedPrefs.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="406">
@@ -3066,8 +3047,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/yolasite/hardtapgames/smack/Services/AuthService.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="28">
-          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+        <state relative-caret-position="1497">
+          <caret line="117" column="19" lean-forward="false" selection-start-line="117" selection-start-column="19" selection-end-line="117" selection-end-column="19" />
           <folding>
             <element signature="e#50#531#0" expanded="true" />
           </folding>
@@ -3076,12 +3057,51 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/yolasite/hardtapgames/smack/Services/MessageService.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="419">
-          <caret line="57" column="30" lean-forward="false" selection-start-line="57" selection-start-column="30" selection-end-line="57" selection-end-column="30" />
+        <state relative-caret-position="153">
+          <caret line="17" column="20" lean-forward="false" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="20" />
           <folding>
             <element signature="e#50#398#0" expanded="true" />
           </folding>
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/yolasite/hardtapgames/smack/Controller/LoginActivity.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="30" column="34" lean-forward="false" selection-start-line="30" selection-start-column="34" selection-end-line="30" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/yolasite/hardtapgames/smack/Controller/CreateUserActivity.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="82" column="51" lean-forward="false" selection-start-line="82" selection-start-column="51" selection-end-line="82" selection-end-column="51" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/yolasite/hardtapgames/smack/Controller/MainActivity.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="59" column="31" lean-forward="false" selection-start-line="59" selection-start-column="31" selection-end-line="59" selection-end-column="31" />
+          <folding>
+            <element signature="e#2046#2077#1" expanded="true" />
+            <element signature="e#2079#2111#1" expanded="true" />
+            <marker date="1511907862037" expanded="true" signature="6684:6685" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/content_main.xml">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="464">
+          <caret line="44" column="42" lean-forward="false" selection-start-line="44" selection-start-column="42" selection-end-line="44" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="android-designer2">
+        <state />
       </provider>
     </entry>
   </component>
