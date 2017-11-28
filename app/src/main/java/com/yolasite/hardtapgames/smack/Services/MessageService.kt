@@ -6,6 +6,7 @@ import com.android.volley.toolbox.JsonArrayRequest
 import com.android.volley.toolbox.Volley
 import com.yolasite.hardtapgames.smack.Controller.App
 import com.yolasite.hardtapgames.smack.Model.Channel
+import com.yolasite.hardtapgames.smack.Model.Message
 import com.yolasite.hardtapgames.smack.Utlities.URL_GET_CHANNELS
 import org.json.JSONException
 
@@ -14,6 +15,7 @@ import org.json.JSONException
  */
 object MessageService {
     val channels = ArrayList<Channel>()
+    val messages = ArrayList<Message>()
 
     fun getChannels(complete: (Boolean) -> Unit){
         val channelsRequest = object : JsonArrayRequest(Method.GET, URL_GET_CHANNELS, null, com.android.volley.Response.Listener { response ->
